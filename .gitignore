@@ -3,7 +3,7 @@ git init
 git add .
 git add *
 git commit -m "Initial Commit" -a
-git remote add origin origin https://github.com/name/botname.git #Указываем свою ссылку
+git remote add origin origin https://github.com/Baziam/Baziam/blob/main/Procfile.windows
 git push -u origin master
 
 # C extensions
