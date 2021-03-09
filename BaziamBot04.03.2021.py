@@ -6,7 +6,7 @@ import telebot
 # Импортируем типы из модуля, чтобы создавать кнопки
 from telebot import types
 # Заготовки для трёх предложений
-
+bot = telebot.TeleBot('1044544613:AAHp4nVs7rludTqdNySUPGXHhVgXs_K_Nx4')
 r=0
 k=0
 s=0
